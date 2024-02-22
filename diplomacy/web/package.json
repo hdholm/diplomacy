@@ -6,14 +6,14 @@
   "dependencies": {
     "@primer/octicons-react": "^9.1.1",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-confirm-alert": "^2.4.1",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-scrollchor": "^6.0.0",
     "react-shortcut": "^1.0.6"
   },
